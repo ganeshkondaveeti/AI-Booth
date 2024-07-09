@@ -31,7 +31,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
 
 2. Fork this repository and create a codespace in GitHub OR Clone it locally.
 ```
-https://github.com/ganeshkondaveeti/AI-Booth.git
+git clone https://github.com/ganeshkondaveeti/AI-Booth.git
 cd AI-Booth
 cd chat-with-websites
 ```
