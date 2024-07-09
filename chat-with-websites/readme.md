@@ -69,13 +69,14 @@ Example from my laptop after above steps:-
 
 (chat-with-websites-Ollama) (base) gkondave@GKONDAVE-M-56JK chat-with-website % ollama --version
 ollama version is 0.1.48
+
 (chat-with-websites-Ollama) (base) gkondave@GKONDAVE-M-56JK chat-with-website % ollama list     
 NAME                    ID              SIZE    MODIFIED   
 mistral:latest          2ae6f6dd7a3d    4.1 GB  5 days ago
 llama2:latest           78e26419b446    3.8 GB  5 days ago
 llama3:latest           365c0bd3c000    4.7 GB  5 days ago
 nomic-embed-text:latest 0a109f422b47    274 MB  5 days ago
-(chat-with-websites-Ollama) (base) gkondave@GKONDAVE-M-56JK chat-with-website %  
+(chat-with-websites-Ollama) (base) gkondave@GKONDAVE-M-56JK chat-with-website % 
 
 
 6. Run the following command in your terminal to start the chat UI:
